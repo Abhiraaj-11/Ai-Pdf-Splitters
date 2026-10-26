@@ -1,6 +1,6 @@
-# AI PDF Splitter Pro
+# AI PDF Splitter
 
-AI PDF Splitter Pro is a desktop application for analyzing a PDF with Google Gemini and splitting it into page-level PDF files grouped by detected document sections. It includes a Tkinter GUI and separate command-line tools for compressing, analyzing, and splitting PDFs.
+AI PDF Splitter is a desktop application for analyzing a PDF with Google Gemini and splitting it into page-level PDF files grouped by detected document sections. It includes a Tkinter GUI and separate command-line tools for compressing, analyzing, and splitting PDFs.
 
 ## Features
 
